@@ -1,4 +1,4 @@
-# vimrc
+# tmux_conf
 .tmux.conf file
 
 #INSTALL  
