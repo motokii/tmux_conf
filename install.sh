@@ -11,5 +11,5 @@ check_file "$HOME/.tmux/tmux_conf"
 
 echo ""
 echo "Installing..."
-git clone https://github.com/motokii/tmux_conf.git $HOME/.tmux/tmux.conf
+git clone https://github.com/motokii/tmux_conf.git $HOME/.tmux/tmux_conf
 ln -s $HOME/.tmux/tmux_conf/tmux.conf $HOME/.tmux.conf
