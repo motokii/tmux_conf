@@ -10,3 +10,6 @@ Use curl:
 Use wget:  
 
     wget -O - https://raw.githubusercontent.com/motokii/tmux_conf/master/install.sh | sh
+
+# prefix
+    Control-Q
