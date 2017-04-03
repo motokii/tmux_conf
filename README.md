@@ -1,7 +1,7 @@
 # tmux_conf
 .tmux.conf file
 
-#INSTALL  
+# INSTALL  
 Use curl:
 
     curl -o - https://raw.githubusercontent.com/motokii/tmux_conf/master/install.sh | sh
